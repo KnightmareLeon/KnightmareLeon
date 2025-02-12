@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello, everyone! 👋
+## I'm currently a Computer Science student, and this is my GitHub account.
+## My main goal is to become a game developer.
+## That's all for now, thank you!
 <!--
 **KnightmareLeon/KnightmareLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
