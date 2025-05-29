@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Minesweeper Project<br>📶 I'm currently working on one school project: Boarding House Utilities Tracker<br>🌱 I’m currently learning game design and databases<br><br>Hello, everyone! 👋<br>I'm currently a Computer Science student, and this is my GitHub account.<br>My main goal is to become a game developer.<br>That's all for now, thank you!
+🔭 I’m not currently working on any project, but I will start a project soon with C# and Godot Engine<br>🌱 I’m currently learning game design<br><br>Hello, everyone! 👋<br>I'm currently a Computer Science student, and this is my GitHub account.<br>My main goal is to become a game developer.<br>That's all for now, thank you!
 
 
 ## 🌐 Socials:
