@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a simple using Godot and C#. I will also start a simple project to practice HTML and CSS soon.<br>🌱 I’m currently learning game design<br><br>Hello, everyone! 👋<br>I'm currently a Computer Science student, and this is my GitHub account.<br>My main goal is to become a game developer.<br>That's all for now, thank you!
+🔭 I'm currently working on an indie game project using Godot and C#, current working title is "Hell Shall Fear My Summons". I will also start a simple project to practice HTML and CSS soon.<br>🌱 I’m currently learning game design and development.<br><br>Hello, everyone! 👋<br>I'm currently a Computer Science student, and this is my GitHub account.<br>My main goal is to become a game developer.<br>That's all for now, thank you!
 
 
 ## 🌐 Socials:
