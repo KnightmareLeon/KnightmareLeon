@@ -1,4 +1,4 @@
-# 💫 💫 About Me:
+# 💫 About Me:
 🔭 I'm currently working on an indie game project using Godot and C#, the current working title is "Hell Shall Fear My Summons".<br><br>
 🧑‍🎓 Also currently working on a school project creating a web application using Python(Flask), HTML, CSS, JavaScript, JQuery, and Bootstrap 5.<br><br>
 🧾 Another school project I am working on is a class records spreadsheet web application, which helps professors organize grading sheets and visualize data and statistics on their classes. The tech stack used for the project is HTML, JavaScript, CSS, Python(Flask), and React. Actual updates of this project are hosted on BitBucket.<br><br>🌱 I’m currently learning game design, game development, and web design.<br><br>Hello, everyone! 👋<br>I'm currently a Computer Science student, and this is my GitHub account.<br><br>My main goal is to become a game developer🖲️,  software engineer🌐, and full stack developer🖥️.<br>That's all for now, thank you!
