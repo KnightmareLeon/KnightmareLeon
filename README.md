@@ -1,5 +1,4 @@
 # 💫 About Me:
-🧾 A school project I am working on is a class records spreadsheet web application, which helps professors organize grading sheets and visualize data and statistics on their classes. The tech stack used for the project is HTML, JavaScript, CSS, Python(Flask), and React. Actual updates of this project are hosted on BitBucket. Development of the web app is almost finished. 
 
 Upcoming project will be called Quixxer, main idea now is a desktop application that mainly features making tests such as flashcards, multiple choices types, enumeration and others for student's practice. Still, currently designing the application layout in Figma.
 
