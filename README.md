@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Upcoming project will be called Quixxer, main idea now is a desktop application that mainly features making tests such as flashcards, multiple choices types, enumeration and others for student's practice. Still, currently designing the application layout in Figma.
+Current project is Quixxer, main idea now is a desktop application that mainly features making tests such as flashcards, multiple choices types, enumeration and others for student's practice. Still, currently designing the application layout in Figma.
 
 🌱 I’m currently learning game design, game development, and web design.
 
