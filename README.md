@@ -5,7 +5,7 @@
 🌱 I’m currently learning app development and web design.
 
 Hello, everyone! 👋
-I'm currently a 3rd Year Computer Science student and this is my GitHub account.
+I'm currently a 3rd Year Computer Science student and this is my GitHub account. Hoping for a good year in 2026!
 
 My main goal is to become a game developer🖲️,  software engineer🌐, or full stack developer🖥️.
 
