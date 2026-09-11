@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-📝 Current project is Quixxer, it is a desktop application that mainly features making tests such as flashcards, multiple choices types, enumeration and others for student's practice. Still, currently designing the application layout in Figma.
+📝 Current project is a mod for RimWorld called Raid Summary.
 
-🌱 I’m currently learning app development and web design.
+🌱 I’m currently learning game modding.
 
 Hello, everyone! 👋
 
