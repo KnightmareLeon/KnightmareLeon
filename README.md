@@ -1,18 +1,16 @@
 # 💫 About Me:
 
-📝 Current project is a mod for RimWorld called Raid Summary.
+📝 Current projects are mods for RimWorld: Raid Summary and More Anima Tree Rituals.
 
 🌱 I’m currently learning game modding.
 
 Hello, everyone! 👋
 
-🖥️ I'm currently a 3rd Year Computer Science student and this is my GitHub account. Hoping for a good year in 2026!
+🖥️ I'm currently a 4th Year Computer Science student and this is my GitHub account. Hoping for a good year in 2026!
 
 My main goal is to become a game developer🖲️,  software engineer🌐, or full stack developer🖥️.
 
 <br>That's all for now, thank you!
-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/leonardjohn.corpuz/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leonardjohncorpuz20@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leonardjohn.corpuz@g.msuiit.edu.ph) 
